@@ -231,6 +231,10 @@ nav.navbar-fixed-top .navbar-nav > li > a:not(.btn) {
 	background: #00a8ff;
 }
 
+.social a i:hover{
+	color: #00a8ff;
+}
+
 .btn.btn-blue:hover {
 	background: #31b9ff;
 }
